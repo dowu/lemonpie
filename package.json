@@ -1,0 +1,31 @@
+{
+  "name": "lemonpie",
+  "version": "0.1.0",
+  "description": "Tiny SCSS Base Package",
+  "keywords": [
+    "boilerplate",
+    "package",
+    "scss",
+    "setup",
+    "mixin",
+    "mixins",
+    "variable",
+    "variables",
+    "function",
+    "functions",
+    "typo",
+    "reset",
+    "resets",
+    "normalize"
+  ],
+  "scripts": {
+    "deploy": "npm publish"
+  },
+  "author": "Dominik Wurm",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dowu/lemonpie.git"
+  }
+}
