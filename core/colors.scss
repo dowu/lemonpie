@@ -1,0 +1,17 @@
+$color: (
+  white: #fff,
+  lightgrey: #F4F5F6,
+  midgrey: #E1E4E8,
+  darkgrey: #6A737D,
+  black: #24292E,
+  lightblue: #6AA2FF,
+  darkblue: #2C65E3,
+  green: #4FC69B,
+  yellow: #F4C54A,
+  red: #E64952,
+);
+
+$shadow: (
+  sm: 0 2px 8px transparentize(map_get($color, darkgrey), .98),
+  lg: 0 4px 16px transparentize(map_get($color, darkgrey), .98)
+)

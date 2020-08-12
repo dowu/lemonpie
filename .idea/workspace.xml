@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9955905-5bd7-468d-bf99-3f0dd9ea0641" name="Default Changelist" comment="" />
+    <list default="true" id="c9955905-5bd7-468d-bf99-3f0dd9ea0641" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/core/boxes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/layouts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/typos.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lemonpie.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/core/functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/lemonpie.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/core/resets.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/typo.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/variables.scss" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +59,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,24 +77,51 @@
       <option name="presentableId" value="Default" />
       <updated>1593370333992</updated>
       <workItem from="1593370335350" duration="1275000" />
+      <workItem from="1593371700532" duration="1098000" />
+      <workItem from="1593616313010" duration="770000" />
+      <workItem from="1593789963521" duration="1415000" />
+      <workItem from="1597243175546" duration="5937000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1151" y="587" width="606" height="192" key="Github.ShareDialog" timestamp="1593370358404">
+    <state x="1009" y="492" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597247965091">
       <screen x="0" y="23" width="2560" height="1320" />
     </state>
-    <state x="1151" y="587" width="606" height="192" key="Github.ShareDialog/0.23.2560.1320@0.23.2560.1320" timestamp="1593370358404" />
-    <state x="1080" y="395" key="Github.UntrackedFilesDialog" timestamp="1593370365359">
+    <state x="1009" y="492" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1320@0.23.2560.1320" timestamp="1597247965091" />
+    <state x="1018" y="437" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597248065528">
       <screen x="0" y="23" width="2560" height="1320" />
     </state>
-    <state x="1080" y="395" key="Github.UntrackedFilesDialog/0.23.2560.1320@0.23.2560.1320" timestamp="1593370365359" />
-    <state x="781" y="322" key="SettingsEditor" timestamp="1593370349664">
+    <state x="1018" y="437" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1320@0.23.2560.1320" timestamp="1597248065528" />
+    <state x="1151" y="587" width="606" height="192" key="Github.ShareDialog" timestamp="1593371738956">
       <screen x="0" y="23" width="2560" height="1320" />
     </state>
-    <state x="781" y="322" key="SettingsEditor/0.23.2560.1320@0.23.2560.1320" timestamp="1593370349664" />
+    <state x="1151" y="587" width="606" height="192" key="Github.ShareDialog/0.23.2560.1320@0.23.2560.1320" timestamp="1593371738955" />
+    <state x="1080" y="395" key="Github.UntrackedFilesDialog" timestamp="1593371742754">
+      <screen x="0" y="23" width="2560" height="1320" />
+    </state>
+    <state x="1080" y="395" key="Github.UntrackedFilesDialog/0.23.2560.1320@0.23.2560.1320" timestamp="1593371742754" />
+    <state x="781" y="322" key="SettingsEditor" timestamp="1597247822688">
+      <screen x="0" y="23" width="2560" height="1320" />
+    </state>
+    <state x="781" y="322" key="SettingsEditor/0.23.2560.1320@0.23.2560.1320" timestamp="1597247822688" />
+    <state x="1068" y="604" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597243317835">
+      <screen x="0" y="23" width="2560" height="1320" />
+    </state>
+    <state x="1068" y="604" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1320@0.23.2560.1320" timestamp="1597243317835" />
   </component>
 </project>

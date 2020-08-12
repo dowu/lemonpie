@@ -1,0 +1,23 @@
+$border-radius: (
+  sm: 4px,
+  md: 8px,
+  lg: 100%
+);
+
+//
+// Builds a equally sized square
+//
+
+@mixin square($value) {
+  width: $value;
+  height: $value;
+}
+
+//
+// Set padding and box-sizing together
+//
+
+@mixin padding($padding, $box-sizing: border-box) {
+  padding: $padding;
+  box-sizing: $box-sizing;
+}

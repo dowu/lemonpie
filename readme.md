@@ -13,23 +13,13 @@ $ npm install lemonpie
 
 ## Configuration
 
-The configuration depends on what you need. Import ``lemonpie.scss`` in **your main SCSS file** with the line below for the whole experience.
+Import ``lemonpie.scss`` in your **main SCSS file** with the line below for the whole experience:
 
 ```css
 @import "~node_modules/lemonpie/lemonpie.scss";
 ```
 
-Another possibility is to import each file for it's own in **your main SCSS File**. This should look like the following:
-
-```css
-@import "reset";
-@import "variables"; /* needs functions to work */
-@import "mixins"; /* needs variables to work */
-@import "functions"; 
-@import "typo";
-```
-
-> Don't forget to import the SCSS dependencies for some files. They won't work otherwise.
+> You can also import every single file for it's own if you don't need the whole package. You can access them via ``/core``
 
 ## Author
 

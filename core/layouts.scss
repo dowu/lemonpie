@@ -1,0 +1,22 @@
+$nudge: 8px;
+
+//
+// Basic flexbox usage
+//
+
+@mixin flex($justify-content: center, $align-items: center, $flex-direction: row) {
+  display: flex;
+  justify-content: $justify-content;
+  align-items: $align-items;
+  flex-direction: $flex-direction;
+}
+
+//
+// Basic grid usage
+//
+
+@mixin grid($min-width: 0, $max-width: 1fr, $gap: 16px) {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax($min-width, $max-width));
+  gap: $gap;
+}
