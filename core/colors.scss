@@ -1,17 +1,19 @@
-$color: (
-  white: #fff,
-  lightgrey: #F4F5F6,
-  midgrey: #E1E4E8,
-  darkgrey: #6A737D,
-  black: #24292E,
-  lightblue: #6AA2FF,
-  darkblue: #2C65E3,
-  green: #4FC69B,
-  yellow: #F4C54A,
-  red: #E64952,
-);
+html {
 
-$shadow: (
-  sm: 0 2px 8px transparentize(map_get($color, darkgrey), .98),
-  lg: 0 4px 16px transparentize(map_get($color, darkgrey), .98)
-)
+  //
+  // Color Tokens
+  //
+  
+  --color-white: 255, 255, 255;
+  --color-grey-000: 250, 251, 252;
+  --color-grey-100: 246, 248, 250;
+  --color-grey-200: 225, 228, 232;
+  --color-grey-300: 209, 213, 218;
+  --color-grey-400: 149, 157, 165;
+  --color-grey-500: 106, 115, 125;
+  --color-grey-600: 88, 96, 105;
+  --color-grey-700: 68, 77, 86;
+  --color-grey-800: 47, 54, 61;
+  --color-grey-900: 36, 41, 46;
+  --color-black: 27, 31, 35;
+}

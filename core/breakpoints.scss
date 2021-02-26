@@ -6,7 +6,9 @@ $breakpoint: (
   xl: 1400px
 );
 
-// Shorthand for @media, working only with $breakpoint
+//
+// Shorthand for @media
+//
 
 @mixin viewport($value, $direction: max) {
   @if map-has-key($breakpoint, $value) {

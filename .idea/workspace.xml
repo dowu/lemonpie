@@ -19,22 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9955905-5bd7-468d-bf99-3f0dd9ea0641" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/boxes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/layouts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/typos.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lemonpie.scss" afterDir="false" />
+    <list default="true" id="c9955905-5bd7-468d-bf99-3f0dd9ea0641" name="Default Changelist" comment="Structure adapted">
+      <change afterPath="$PROJECT_DIR$/structure.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/core/functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/lemonpie.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/core/resets.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/typo.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/variables.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +67,26 @@
       <workItem from="1593371700532" duration="1098000" />
       <workItem from="1593616313010" duration="770000" />
       <workItem from="1593789963521" duration="1415000" />
-      <workItem from="1597243175546" duration="5937000" />
+      <workItem from="1597243175546" duration="7327000" />
+      <workItem from="1597387893301" duration="540000" />
+      <workItem from="1597760075145" duration="592000" />
+      <workItem from="1597993803949" duration="18000" />
+      <workItem from="1598779626397" duration="572000" />
+      <workItem from="1599500606370" duration="975000" />
+      <workItem from="1599807229664" duration="3000" />
+      <workItem from="1602513797643" duration="2540000" />
+      <workItem from="1602598692041" duration="598000" />
+      <workItem from="1602839150809" duration="4000" />
+      <workItem from="1603034810575" duration="298000" />
     </task>
+    <task id="LOCAL-00001" summary="Structure adapted">
+      <created>1597250175658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597250175658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +102,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Structure adapted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Structure adapted" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1009" y="492" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597247965091">
@@ -119,6 +129,10 @@
       <screen x="0" y="23" width="2560" height="1320" />
     </state>
     <state x="781" y="322" key="SettingsEditor/0.23.2560.1320@0.23.2560.1320" timestamp="1597247822688" />
+    <state x="880" y="423" key="Vcs.Push.Dialog.v2" timestamp="1597250177163">
+      <screen x="0" y="23" width="2560" height="1320" />
+    </state>
+    <state x="880" y="423" key="Vcs.Push.Dialog.v2/0.23.2560.1320@0.23.2560.1320" timestamp="1597250177163" />
     <state x="1068" y="604" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597243317835">
       <screen x="0" y="23" width="2560" height="1320" />
     </state>
